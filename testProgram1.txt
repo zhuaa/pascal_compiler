@@ -1,0 +1,32 @@
+program qsort;
+var n,p:integer;
+    a:array[0..100000] of integer;
+    i,j,m,t:integer;
+procedure qs(l,r:integer);//假设被排序的数组是a,且快排后按升序排列）
+ var c:integer;
+begin
+  
+  i:=l;
+  j:=r;//(l（left）,r（right）表示快排的左右区间)
+  m:=a[(l+r)];//注意：本句不能写成：m:=(l+r)div2;
+  repeat
+  while a[i]<m do i:=i+1;
+  while a[j]>m do j:=j-1;//若是降序把'<'与‘>'互换;
+  if i<=j then
+    begin
+    t:=a[i];
+    a[i]:=a[j];
+    a[j]:=t;
+    i:=i+1;
+    j:=j-1;
+    end;
+  until i>j;
+  if l<j then qs(l,j);//递归查找左区间
+  if i<r then qs(i,r);//递归查找右区间
+end;
+begin
+  readln(n);//有n个数据要处理
+  for p:=1 to n do read(a[p]);//输入数据
+  qs(1,n);
+  for p:=1 to n do write(a[p],'');//输出快排后的数据
+end.

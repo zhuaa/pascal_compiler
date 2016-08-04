@@ -1,0 +1,15 @@
+program qsort;
+var n,p:integer;
+    i,j,m,t:integer;
+procedure qs(l,r:integer);//假设被排序的数组是a,且快排后按升序排列）
+ var c:integer;
+begin
+  j := 1;
+  i := j;
+  n := l;
+end;
+begin
+  qs(1,1);
+  for p:=1 to n do i := i + 1;//输入数据
+  write(i,'  ',j,'  ',m,'  ',t,'  ');
+end.

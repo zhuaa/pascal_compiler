@@ -1,0 +1,20 @@
+program me;
+const b = 1;
+	c = 9;
+	c = maxint;
+	e = ' Welcome to the world of Pascal ';
+	f = 'a';
+
+type a = string;
+b = integer;
+c = record n,sd:integer; end;
+
+var i,j,m,t:integer;
+    e:string;
+
+begin
+  i:=l;
+  j:=r;
+
+
+end.

@@ -1,0 +1,1633 @@
+program
+|---program_head
+|   |---ex71-((null)-0-0-0-0)-program
+|---routine
+    |---routine_head
+    |   |---empty_label_part
+    |   |---const_part
+    |   |   |---const_expr
+    |   |   |   |---stringconst29-((null)-0-0-0-0)-program
+    |   |   |   |---'achar ='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst28-((null)-0-0-0-0)-program
+    |   |   |   |---'i = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst27-((null)-0-0-0-0)-program
+    |   |   |   |---'age='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst26-((null)-0-0-0-0)-program
+    |   |   |   |---'not sun'-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst25-((null)-0-0-0-0)-program
+    |   |   |   |---'sun'-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst24-((null)-0-0-0-0)-program
+    |   |   |   |---'dt.month='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst23-((null)-0-0-0-0)-program
+    |   |   |   |---'dt.year='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst22-((null)-0-0-0-0)-program
+    |   |   |   |---' '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst21-((null)-0-0-0-0)-program
+    |   |   |   |---'b ='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst20-((null)-0-0-0-0)-program
+    |   |   |   |---'b ='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst19-((null)-0-0-0-0)-program
+    |   |   |   |---'i = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst18-((null)-0-0-0-0)-program
+    |   |   |   |---'list of all perfect numbers:'-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst17-((null)-0-0-0-0)-program
+    |   |   |   |---'you input b ='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst16-((null)-0-0-0-0)-program
+    |   |   |   |---'you input a ='-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst15-((null)-0-0-0-0)-program
+    |   |   |   |---'please input a and b'-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst14-((null)-0-0-0-0)-program
+    |   |   |   |---'a = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst13-((null)-0-0-0-0)-program
+    |   |   |   |---'a = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst12-((null)-0-0-0-0)-program
+    |   |   |   |---'a = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst11-((null)-0-0-0-0)-program
+    |   |   |   |---'b = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst10-((null)-0-0-0-0)-program
+    |   |   |   |---'a = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst9-((null)-0-0-0-0)-program
+    |   |   |   |---'i = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst8-((null)-0-0-0-0)-program
+    |   |   |   |---'i = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst7-((null)-0-0-0-0)-program
+    |   |   |   |---'t = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst6-((null)-0-0-0-0)-program
+    |   |   |   |---'i < 0'-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst5-((null)-0-0-0-0)-program
+    |   |   |   |---'i = 0'-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst4-((null)-0-0-0-0)-program
+    |   |   |   |---'i > 0'-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst3-((null)-0-0-0-0)-program
+    |   |   |   |---'i = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |   |   |---stringconst2-((null)-0-0-0-0)-program
+    |   |   |   |---'i = '-((null)-0-0-0-0)-string_const_value
+    |   |   |---const_expr
+    |   |       |---stringconst1-((null)-0-0-0-0)-program
+    |   |       |---'x='-((null)-0-0-0-0)-string_const_value
+    |   |---type_part
+    |   |   |---type_definition
+    |   |   |   |---arr-((null)-0-0-0-0)-program
+    |   |   |   |---array_type_decl
+    |   |   |       |---const_dotdot_const_simple_type_decl
+    |   |   |       |   |---1-((null)-0-0-0-0)-integer_const_value
+    |   |   |       |   |---50-((null)-0-0-0-0)-integer_const_value
+    |   |   |       |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |   |   |---type_definition
+    |   |   |   |---date-((null)-0-0-0-0)-program
+    |   |   |   |---record_type_decl
+    |   |   |       |---field_decl
+    |   |   |       |   |---name_list
+    |   |   |       |   |   |---year-((null)-0-0-0-0)-routine_head
+    |   |   |       |   |---const_dotdot_const_simple_type_decl
+    |   |   |       |       |---1900-((null)-0-0-0-0)-integer_const_value
+    |   |   |       |       |---1999-((null)-0-0-0-0)-integer_const_value
+    |   |   |       |---field_decl
+    |   |   |       |   |---name_list
+    |   |   |       |   |   |---month-((null)-0-0-0-0)-program
+    |   |   |       |   |---const_dotdot_const_simple_type_decl
+    |   |   |       |       |---1-((null)-0-0-0-0)-integer_const_value
+    |   |   |       |       |---12-((null)-0-0-0-0)-integer_const_value
+    |   |   |       |---field_decl
+    |   |   |           |---name_list
+    |   |   |           |   |---day-((null)-0-0-0-0)-program
+    |   |   |           |---const_dotdot_const_simple_type_decl
+    |   |   |               |---1-((null)-0-0-0-0)-integer_const_value
+    |   |   |               |---31-((null)-0-0-0-0)-integer_const_value
+    |   |   |---type_definition
+    |   |   |   |---days-((null)-0-0-0-0)-program
+    |   |   |   |---lp_name_list_rp_simple_type_decl
+    |   |   |       |---name_list
+    |   |   |           |---sun-((null)-0-0-0-0)-program
+    |   |   |           |---mon-((null)-0-0-0-0)-program
+    |   |   |           |---tue-((null)-0-0-0-0)-program
+    |   |   |           |---wed-((null)-0-0-0-0)-program
+    |   |   |           |---thu-((null)-0-0-0-0)-program
+    |   |   |           |---fri-((null)-0-0-0-0)-program
+    |   |   |           |---sat-((null)-0-0-0-0)-program
+    |   |   |---type_definition
+    |   |   |   |---colors-((null)-0-0-0-0)-program
+    |   |   |   |---lp_name_list_rp_simple_type_decl
+    |   |   |       |---name_list
+    |   |   |           |---red-((null)-0-0-0-0)-program
+    |   |   |           |---yellow-((null)-0-0-0-0)-program
+    |   |   |           |---blue-((null)-0-0-0-0)-program
+    |   |   |           |---white-((null)-0-0-0-0)-program
+    |   |   |           |---black-((null)-0-0-0-0)-program
+    |   |   |           |---green-((null)-0-0-0-0)-program
+    |   |   |---type_definition
+    |   |       |---age-((null)-0-0-0-0)-program
+    |   |       |---const_dotdot_const_simple_type_decl
+    |   |           |---1-((null)-0-0-0-0)-integer_const_value
+    |   |           |---150-((null)-0-0-0-0)-integer_const_value
+    |   |---var_part
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---i-((null)-0-0-0-0)-program
+    |   |   |   |   |---a-((null)-0-0-0-0)-program
+    |   |   |   |   |---b-((null)-0-0-0-0)-program
+    |   |   |   |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---inta-((null)-0-0-0-0)-program
+    |   |   |   |   |---intb-((null)-0-0-0-0)-program
+    |   |   |   |   |---intc-((null)-0-0-0-0)-program
+    |   |   |   |   |---intd-((null)-0-0-0-0)-program
+    |   |   |   |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---t-((null)-0-0-0-0)-program
+    |   |   |   |---boolean-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---aa-((null)-0-0-0-0)-program
+    |   |   |   |---arr-((null)-0-0-0-0)-id_simple_type_decl
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---dt-((null)-0-0-0-0)-program
+    |   |   |   |   |---dt2-((null)-0-0-0-0)-program
+    |   |   |   |---date-((null)-0-0-0-0)-id_simple_type_decl
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---color-((null)-0-0-0-0)-program
+    |   |   |   |---colors-((null)-0-0-0-0)-id_simple_type_decl
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---weekday-((null)-0-0-0-0)-program
+    |   |   |   |---days-((null)-0-0-0-0)-id_simple_type_decl
+    |   |   |---var_decl
+    |   |   |   |---name_list
+    |   |   |   |   |---aage-((null)-0-0-0-0)-program
+    |   |   |   |---age-((null)-0-0-0-0)-id_simple_type_decl
+    |   |   |---var_decl
+    |   |       |---name_list
+    |   |       |   |---achar-((null)-0-0-0-0)-program
+    |   |       |---char-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |   |---routine_part
+    |       |---function_decl
+    |       |   |---function_head
+    |       |   |   |---testfunc-((null)-0-0-0-0)-program
+    |       |   |   |---parameters
+    |       |   |   |   |---non_var_para_decl
+    |       |   |   |       |---name_list
+    |       |   |   |       |   |---x-((null)-0-0-0-0)-program
+    |       |   |   |       |   |---y-((null)-0-0-0-0)-program
+    |       |   |   |       |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |       |   |   |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |       |   |---sub_routine
+    |       |       |---routine_head
+    |       |       |   |---empty_label_part
+    |       |       |   |---empty_const_part
+    |       |       |   |---empty_type_part
+    |       |       |   |---var_part
+    |       |       |   |   |---var_decl
+    |       |       |   |       |---name_list
+    |       |       |   |       |   |---k-((null)-0-0-0-0)-program
+    |       |       |   |       |   |---sum-((null)-0-0-0-0)-program
+    |       |       |   |       |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |       |       |   |---routine_part
+    |       |       |---routine_body
+    |       |           |---compound_stmt
+    |       |               |---stmt_list
+    |       |                   |---non_labeled_stmt
+    |       |                   |   |---id_assign_stmt
+    |       |                   |       |---sum-((null)-24-4-1-0)-program
+    |       |                   |       |---end_expression
+    |       |                   |           |---end_expr
+    |       |                   |               |---end_term
+    |       |                   |                   |---id_factor
+    |       |                   |                       |---a-((null)-246-4-1-1)-program
+    |       |                   |---non_labeled_stmt
+    |       |                   |   |---id_assign_stmt
+    |       |                   |       |---sum-((null)-24-4-1-0)-program
+    |       |                   |       |---end_expression
+    |       |                   |           |---end_expr
+    |       |                   |               |---end_term
+    |       |                   |                   |---const_factor
+    |       |                   |                       |---1-((null)-0-0-0-0)-integer_const_value
+    |       |                   |---non_labeled_stmt
+    |       |                   |   |---for_stmt
+    |       |                   |       |---k-((null)-20-4-1-0)-real_const_value
+    |       |                   |       |---end_expression
+    |       |                   |       |   |---end_expr
+    |       |                   |       |       |---end_term
+    |       |                   |       |           |---const_factor
+    |       |                   |       |               |---2-((null)-0-0-0-0)-integer_const_value
+    |       |                   |       |---to-((null)-0-0-0-0)-to_direction
+    |       |                   |       |---end_expression
+    |       |                   |       |   |---expr
+    |       |                   |       |       |---end_expr
+    |       |                   |       |       |   |---end_term
+    |       |                   |       |       |       |---id_factor
+    |       |                   |       |       |           |---x-((null)-12-4-1-0)-program
+    |       |                   |       |       |---+-((null)-0-0-0-0)-plus_expr_op
+    |       |                   |       |       |---end_term
+    |       |                   |       |           |---const_factor
+    |       |                   |       |               |---2-((null)-0-0-0-0)-integer_const_value
+    |       |                   |       |---non_labeled_stmt
+    |       |                   |           |---compound_stmt
+    |       |                   |               |---stmt_list
+    |       |                   |                   |---non_labeled_stmt
+    |       |                   |                       |---if_stmt
+    |       |                   |                           |---expression
+    |       |                   |                           |   |---end_expression
+    |       |                   |                           |   |   |---end_expr
+    |       |                   |                           |   |       |---term
+    |       |                   |                           |   |           |---end_term
+    |       |                   |                           |   |           |   |---id_factor
+    |       |                   |                           |   |           |       |---x-((null)-12-4-1-0)-program
+    |       |                   |                           |   |           |---mod-((null)-0-0-0-0)-mod_term_op
+    |       |                   |                           |   |           |---id_factor
+    |       |                   |                           |   |               |---k-((null)-20-4-1-0)-program
+    |       |                   |                           |   |---=-((null)-0-0-0-0)-equal_expression_op
+    |       |                   |                           |   |---end_expr
+    |       |                   |                           |       |---end_term
+    |       |                   |                           |           |---const_factor
+    |       |                   |                           |               |---0-((null)-0-0-0-0)-integer_const_value
+    |       |                   |                           |---non_labeled_stmt
+    |       |                   |                           |   |---compound_stmt
+    |       |                   |                           |       |---stmt_list
+    |       |                   |                           |           |---non_labeled_stmt
+    |       |                   |                           |               |---id_assign_stmt
+    |       |                   |                           |                   |---sum-((null)-24-4-1-0)-program
+    |       |                   |                           |                   |---end_expression
+    |       |                   |                           |                       |---expr
+    |       |                   |                           |                           |---end_expr
+    |       |                   |                           |                           |   |---end_term
+    |       |                   |                           |                           |       |---id_factor
+    |       |                   |                           |                           |           |---sum-((null)-24-4-1-0)-program
+    |       |                   |                           |                           |---+-((null)-0-0-0-0)-plus_expr_op
+    |       |                   |                           |                           |---end_term
+    |       |                   |                           |                               |---id_factor
+    |       |                   |                           |                                   |---k-((null)-20-4-1-0)-program
+    |       |                   |                           |---empty_else_clause
+    |       |                   |---non_labeled_stmt
+    |       |                       |---id_assign_stmt
+    |       |                           |---testfunc-((null)-12-0-0-0)-end_expression
+    |       |                           |---end_expression
+    |       |                               |---expr
+    |       |                                   |---end_expr
+    |       |                                   |   |---end_term
+    |       |                                   |       |---id_factor
+    |       |                                   |           |---x-((null)-12-4-1-0)-empty_var_part
+    |       |                                   |---+-((null)-0-0-0-0)-plus_expr_op
+    |       |                                   |---end_term
+    |       |                                       |---id_factor
+    |       |                                           |---y-((null)-16-4-1-0)-program
+    |       |---function_decl
+    |       |   |---function_head
+    |       |   |   |---t1-((null)-0-0-0-0)-program
+    |       |   |   |---parameters
+    |       |   |   |   |---non_var_para_decl
+    |       |   |   |       |---name_list
+    |       |   |   |       |   |---x-((null)-0-0-0-0)-program
+    |       |   |   |       |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |       |   |   |---boolean-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |       |   |---sub_routine
+    |       |       |---routine_head
+    |       |       |   |---empty_label_part
+    |       |       |   |---empty_const_part
+    |       |       |   |---empty_type_part
+    |       |       |   |---empty_var_part
+    |       |       |   |---routine_part
+    |       |       |---routine_body
+    |       |           |---compound_stmt
+    |       |               |---stmt_list
+    |       |                   |---non_labeled_stmt
+    |       |                   |   |---sys_proc_lp_args_rp_proc_stmt
+    |       |                   |       |---write-((null)-0-0-0-0)-program
+    |       |                   |       |---args_list
+    |       |                   |           |---end_expression
+    |       |                   |               |---end_expr
+    |       |                   |                   |---end_term
+    |       |                   |                       |---id_factor
+    |       |                   |                           |---stringconst1-(main_stringconst1-238-4-1-2)-string_const_value
+    |       |                   |---non_labeled_stmt
+    |       |                   |   |---sys_proc_lp_args_rp_proc_stmt
+    |       |                   |       |---writeln-((null)-0-0-0-0)-program
+    |       |                   |       |---args_list
+    |       |                   |           |---end_expression
+    |       |                   |               |---end_expr
+    |       |                   |                   |---end_term
+    |       |                   |                       |---id_factor
+    |       |                   |                           |---x-((null)-12-4-1-0)-program
+    |       |                   |---non_labeled_stmt
+    |       |                       |---id_assign_stmt
+    |       |                           |---t1-((null)-12-0-0-0)-program
+    |       |                           |---expression
+    |       |                               |---end_expression
+    |       |                               |   |---end_expr
+    |       |                               |       |---end_term
+    |       |                               |           |---id_factor
+    |       |                               |               |---x-((null)-12-4-1-0)-program
+    |       |                               |--->-((null)-0-0-0-0)-gt_expression_op
+    |       |                               |---end_expr
+    |       |                                   |---end_term
+    |       |                                       |---const_factor
+    |       |                                           |---0-((null)-0-0-0-0)-integer_const_value
+    |       |---function_decl
+    |           |---function_head
+    |           |   |---perfect-((null)-0-0-0-0)-program
+    |           |   |---parameters
+    |           |   |   |---non_var_para_decl
+    |           |   |       |---name_list
+    |           |   |       |   |---x-((null)-0-0-0-0)-program
+    |           |   |       |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |           |   |---boolean-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |           |---sub_routine
+    |               |---routine_head
+    |               |   |---empty_label_part
+    |               |   |---empty_const_part
+    |               |   |---empty_type_part
+    |               |   |---var_part
+    |               |   |   |---var_decl
+    |               |   |       |---name_list
+    |               |   |       |   |---k-((null)-0-0-0-0)-program
+    |               |   |       |   |---sum-((null)-0-0-0-0)-program
+    |               |   |       |---integer-((null)-0-0-0-0)-sys_type_simple_type_decl
+    |               |   |---routine_part
+    |               |---routine_body
+    |                   |---compound_stmt
+    |                       |---stmt_list
+    |                           |---non_labeled_stmt
+    |                           |   |---id_assign_stmt
+    |                           |       |---sum-((null)-20-4-1-0)-program
+    |                           |       |---end_expression
+    |                           |           |---end_expr
+    |                           |               |---end_term
+    |                           |                   |---const_factor
+    |                           |                       |---1-((null)-0-0-0-0)-integer_const_value
+    |                           |---non_labeled_stmt
+    |                           |   |---for_stmt
+    |                           |       |---k-((null)-16-4-1-0)-real_const_value
+    |                           |       |---end_expression
+    |                           |       |   |---end_expr
+    |                           |       |       |---end_term
+    |                           |       |           |---const_factor
+    |                           |       |               |---2-((null)-0-0-0-0)-integer_const_value
+    |                           |       |---to-((null)-0-0-0-0)-to_direction
+    |                           |       |---end_expression
+    |                           |       |   |---expr
+    |                           |       |       |---end_expr
+    |                           |       |       |   |---end_term
+    |                           |       |       |       |---id_factor
+    |                           |       |       |           |---x-((null)-12-4-1-0)-program
+    |                           |       |       |---+-((null)-0-0-0-0)-plus_expr_op
+    |                           |       |       |---end_term
+    |                           |       |           |---const_factor
+    |                           |       |               |---2-((null)-0-0-0-0)-integer_const_value
+    |                           |       |---non_labeled_stmt
+    |                           |           |---compound_stmt
+    |                           |               |---stmt_list
+    |                           |                   |---non_labeled_stmt
+    |                           |                       |---if_stmt
+    |                           |                           |---expression
+    |                           |                           |   |---end_expression
+    |                           |                           |   |   |---end_expr
+    |                           |                           |   |       |---end_term
+    |                           |                           |   |           |---lp_exp_rp_factor
+    |                           |                           |   |               |---end_expression
+    |                           |                           |   |                   |---end_expr
+    |                           |                           |   |                       |---term
+    |                           |                           |   |                           |---end_term
+    |                           |                           |   |                           |   |---id_factor
+    |                           |                           |   |                           |       |---x-((null)-12-4-1-0)-program
+    |                           |                           |   |                           |---mod-((null)-0-0-0-0)-mod_term_op
+    |                           |                           |   |                           |---id_factor
+    |                           |                           |   |                               |---k-((null)-16-4-1-0)-program
+    |                           |                           |   |---=-((null)-0-0-0-0)-equal_expression_op
+    |                           |                           |   |---end_expr
+    |                           |                           |       |---end_term
+    |                           |                           |           |---const_factor
+    |                           |                           |               |---0-((null)-0-0-0-0)-integer_const_value
+    |                           |                           |---non_labeled_stmt
+    |                           |                           |   |---compound_stmt
+    |                           |                           |       |---stmt_list
+    |                           |                           |           |---non_labeled_stmt
+    |                           |                           |               |---id_assign_stmt
+    |                           |                           |                   |---sum-((null)-20-4-1-0)-integer_const_value
+    |                           |                           |                   |---end_expression
+    |                           |                           |                       |---expr
+    |                           |                           |                           |---end_expr
+    |                           |                           |                           |   |---end_term
+    |                           |                           |                           |       |---id_factor
+    |                           |                           |                           |           |---sum-((null)-20-4-1-0)-program
+    |                           |                           |                           |---+-((null)-0-0-0-0)-plus_expr_op
+    |                           |                           |                           |---end_term
+    |                           |                           |                               |---id_factor
+    |                           |                           |                                   |---k-((null)-16-4-1-0)-program
+    |                           |                           |---empty_else_clause
+    |                           |---non_labeled_stmt
+    |                               |---id_assign_stmt
+    |                                   |---perfect-((null)-12-0-0-0)-end_expression
+    |                                   |---expression
+    |                                       |---end_expression
+    |                                       |   |---end_expr
+    |                                       |       |---end_term
+    |                                       |           |---id_factor
+    |                                       |               |---x-((null)-12-4-1-0)-sys_proc_lp_args_rp_proc_stmt
+    |                                       |---=-((null)-0-0-0-0)-equal_expression_op
+    |                                       |---end_expr
+    |                                           |---end_term
+    |                                               |---id_factor
+    |                                                   |---sum-((null)-20-4-1-0)-program
+    |---routine_body
+        |---compound_stmt
+            |---stmt_list
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---a-((null)-246-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---28-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---b-((null)-250-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---730-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-end_term
+                |       |---end_expression
+                |           |---expr
+                |               |---end_expr
+                |               |   |---end_term
+                |               |       |---lp_exp_rp_factor
+                |               |           |---end_expression
+                |               |               |---expr
+                |               |                   |---end_expr
+                |               |                   |   |---end_term
+                |               |                   |       |---id_factor
+                |               |                   |           |---a-((null)-246-4-0-0)-program
+                |               |                   |---+-((null)-0-0-0-0)-plus_expr_op
+                |               |                   |---end_term
+                |               |                       |---id_factor
+                |               |                           |---b-((null)-250-4-0-0)-integer_const_value
+                |               |---+-((null)-0-0-0-0)-plus_expr_op
+                |               |---term
+                |                   |---end_term
+                |                   |   |---const_factor
+                |                   |       |---2-((null)-0-0-0-0)-integer_const_value
+                |                   |---*-((null)-0-0-0-0)-mul_term_op
+                |                   |---lp_exp_rp_factor
+                |                       |---end_expression
+                |                           |---expr
+                |                               |---end_expr
+                |                               |   |---end_term
+                |                               |       |---id_factor
+                |                               |           |---a-((null)-246-4-0-0)-program
+                |                               |---+-((null)-0-0-0-0)-plus_expr_op
+                |                               |---end_term
+                |                                   |---id_factor
+                |                                       |---b-((null)-250-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-end_term
+                |       |---end_expression
+                |           |---expr
+                |               |---end_expr
+                |               |   |---end_term
+                |               |       |---id_factor
+                |               |           |---i-((null)-242-4-0-0)-program
+                |               |-----((null)-0-0-0-0)-minus_expr_op
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---3-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst2-(main_stringconst2-232-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-goto_stmt
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---i-((null)-242-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |           |---expr
+                |               |---end_expr
+                |               |   |---end_term
+                |               |       |---id_factor
+                |               |           |---b-((null)-250-4-0-0)-program
+                |               |---+-((null)-0-0-0-0)-plus_expr_op
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---2-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst3-(main_stringconst3-226-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-gt_expression_op
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---i-((null)-242-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---a-((null)-246-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---3-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---lp_exp_rp_factor
+                |                       |---end_expression
+                |                           |---expr
+                |                               |---end_expr
+                |                               |   |---end_term
+                |                               |       |---id_factor
+                |                               |           |---a-((null)-246-4-0-0)-program
+                |                               |---+-((null)-0-0-0-0)-plus_expr_op
+                |                               |---end_term
+                |                                   |---id_factor
+                |                                       |---b-((null)-250-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---inta-((null)-254-4-0-0)-end_expression
+                |       |---end_expression
+                |           |---expr
+                |               |---end_expr
+                |               |   |---end_term
+                |               |       |---id_factor
+                |               |           |---intb-((null)-258-4-0-0)-program
+                |               |---+-((null)-0-0-0-0)-plus_expr_op
+                |               |---end_term
+                |                   |---id_factor
+                |                       |---intc-((null)-262-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---intb-((null)-258-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---2-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---intd-((null)-266-4-0-0)-program
+                |       |---end_expression
+                |           |---expr
+                |               |---end_expr
+                |               |   |---end_term
+                |               |       |---id_factor
+                |               |           |---intb-((null)-258-4-0-0)-end_expression
+                |               |---+-((null)-0-0-0-0)-plus_expr_op
+                |               |---end_term
+                |                   |---id_factor
+                |                       |---intc-((null)-262-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---minus_factor_factor
+                |                       |---const_factor
+                |                           |---3-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---if_stmt
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---lp_exp_rp_factor
+                |       |               |---expression
+                |       |                   |---end_expression
+                |       |                   |   |---end_expr
+                |       |                   |       |---end_term
+                |       |                   |           |---id_factor
+                |       |                   |               |---i-((null)-242-4-0-0)-end_expression
+                |       |                   |--->-((null)-0-0-0-0)-gt_expression_op
+                |       |                   |---end_expr
+                |       |                       |---end_term
+                |       |                           |---const_factor
+                |       |                               |---0-((null)-0-0-0-0)-integer_const_value
+                |       |---non_labeled_stmt
+                |       |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |       |---writeln-((null)-0-0-0-0)-end_term
+                |       |       |---args_list
+                |       |           |---end_expression
+                |       |               |---end_expr
+                |       |                   |---end_term
+                |       |                       |---id_factor
+                |       |                           |---stringconst4-(main_stringconst4-219-7-0-0)-string_const_value
+                |       |---else_clause
+                |           |---non_labeled_stmt
+                |               |---if_stmt
+                |                   |---end_expression
+                |                   |   |---end_expr
+                |                   |       |---end_term
+                |                   |           |---lp_exp_rp_factor
+                |                   |               |---expression
+                |                   |                   |---end_expression
+                |                   |                   |   |---end_expr
+                |                   |                   |       |---end_term
+                |                   |                   |           |---id_factor
+                |                   |                   |               |---i-((null)-242-4-0-0)-program
+                |                   |                   |---=-((null)-0-0-0-0)-equal_expression_op
+                |                   |                   |---end_expr
+                |                   |                       |---end_term
+                |                   |                           |---const_factor
+                |                   |                               |---0-((null)-0-0-0-0)-integer_const_value
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---writeln-((null)-0-0-0-0)-program
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_factor
+                |                   |                           |---stringconst5-(main_stringconst5-212-7-0-0)-string_const_value
+                |                   |---else_clause
+                |                       |---non_labeled_stmt
+                |                           |---sys_proc_lp_args_rp_proc_stmt
+                |                               |---writeln-((null)-0-0-0-0)-program
+                |                               |---args_list
+                |                                   |---end_expression
+                |                                       |---end_expr
+                |                                           |---end_term
+                |                                               |---id_factor
+                |                                                   |---stringconst6-(main_stringconst6-205-7-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---t-((null)-270-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---id_lp_args_rp_factor
+                |                       |---perfect-((null)-0-0-0-0)-program
+                |                       |---args_list
+                |                           |---end_expression
+                |                               |---end_expr
+                |                                   |---end_term
+                |                                       |---const_factor
+                |                                           |---12-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst7-(main_stringconst7-199-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---t-((null)-270-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---3-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst8-(main_stringconst8-193-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-real_const_value
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---i-((null)-242-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---id_lp_args_rp_factor
+                |                       |---testfunc-((null)-0-0-0-0)-program
+                |                       |---args_list
+                |                           |---end_expression
+                |                           |   |---end_expr
+                |                           |       |---end_term
+                |                           |           |---id_factor
+                |                           |               |---a-((null)-246-4-0-0)-program
+                |                           |---end_expression
+                |                               |---end_expr
+                |                                   |---end_term
+                |                                       |---id_factor
+                |                                           |---b-((null)-250-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst9-(main_stringconst9-187-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---i-((null)-242-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---a-((null)-246-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---30-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---b-((null)-250-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---40-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---repeat_stmt
+                |       |---stmt_list
+                |       |   |---non_labeled_stmt
+                |       |   |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |   |       |---write-((null)-0-0-0-0)-integer_const_value
+                |       |   |       |---args_list
+                |       |   |           |---end_expression
+                |       |   |               |---end_expr
+                |       |   |                   |---end_term
+                |       |   |                       |---id_factor
+                |       |   |                           |---stringconst10-(main_stringconst10-181-6-0-0)-string_const_value
+                |       |   |---non_labeled_stmt
+                |       |   |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |   |       |---writeln-((null)-0-0-0-0)-end_expr
+                |       |   |       |---args_list
+                |       |   |           |---end_expression
+                |       |   |               |---end_expr
+                |       |   |                   |---end_term
+                |       |   |                       |---id_factor
+                |       |   |                           |---a-((null)-246-4-0-0)-program
+                |       |   |---non_labeled_stmt
+                |       |   |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |   |       |---write-((null)-0-0-0-0)-program
+                |       |   |       |---args_list
+                |       |   |           |---end_expression
+                |       |   |               |---end_expr
+                |       |   |                   |---end_term
+                |       |   |                       |---id_factor
+                |       |   |                           |---stringconst11-(main_stringconst11-175-6-0-0)-string_const_value
+                |       |   |---non_labeled_stmt
+                |       |   |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |   |       |---writeln-((null)-0-0-0-0)-program
+                |       |   |       |---args_list
+                |       |   |           |---end_expression
+                |       |   |               |---end_expr
+                |       |   |                   |---end_term
+                |       |   |                       |---id_factor
+                |       |   |                           |---b-((null)-250-4-0-0)-program
+                |       |   |---non_labeled_stmt
+                |       |       |---id_assign_stmt
+                |       |           |---a-((null)-246-4-0-0)-program
+                |       |           |---end_expression
+                |       |               |---expr
+                |       |                   |---end_expr
+                |       |                   |   |---end_term
+                |       |                   |       |---id_factor
+                |       |                   |           |---a-((null)-246-4-0-0)-program
+                |       |                   |---+-((null)-0-0-0-0)-plus_expr_op
+                |       |                   |---end_term
+                |       |                       |---const_factor
+                |       |                           |---1-((null)-0-0-0-0)-integer_const_value
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---lp_exp_rp_factor
+                |                       |---expression
+                |                           |---end_expression
+                |                           |   |---end_expr
+                |                           |       |---end_term
+                |                           |           |---id_factor
+                |                           |               |---a-((null)-246-4-0-0)-program
+                |                           |--->-((null)-0-0-0-0)-gt_expression_op
+                |                           |---end_expr
+                |                               |---end_term
+                |                                   |---id_factor
+                |                                       |---b-((null)-250-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---for_stmt
+                |       |---a-((null)-246-4-0-0)-end_term
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---30-((null)-0-0-0-0)-integer_const_value
+                |       |---to-((null)-0-0-0-0)-to_direction
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---40-((null)-0-0-0-0)-integer_const_value
+                |       |---non_labeled_stmt
+                |           |---compound_stmt
+                |               |---stmt_list
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---write-((null)-0-0-0-0)-program
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_factor
+                |                   |                           |---stringconst12-(main_stringconst12-169-6-0-0)-string_const_value
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---writeln-((null)-0-0-0-0)-program
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_factor
+                |                   |                           |---a-((null)-246-4-0-0)-program
+                |                   |---non_labeled_stmt
+                |                       |---id_assign_stmt
+                |                           |---a-((null)-246-4-0-0)-program
+                |                           |---end_expression
+                |                               |---expr
+                |                                   |---end_expr
+                |                                   |   |---end_term
+                |                                   |       |---id_factor
+                |                                   |           |---a-((null)-246-4-0-0)-program
+                |                                   |---+-((null)-0-0-0-0)-plus_expr_op
+                |                                   |---end_term
+                |                                       |---const_factor
+                |                                           |---1-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst13-(main_stringconst13-163-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---a-((null)-246-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---for_stmt
+                |       |---a-((null)-246-4-0-0)-program
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---40-((null)-0-0-0-0)-integer_const_value
+                |       |---downto-((null)-0-0-0-0)-down_direction
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---30-((null)-0-0-0-0)-integer_const_value
+                |       |---non_labeled_stmt
+                |           |---compound_stmt
+                |               |---stmt_list
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---write-((null)-0-0-0-0)-program
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_factor
+                |                   |                           |---stringconst14-(main_stringconst14-157-6-0-0)-string_const_value
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---writeln-((null)-0-0-0-0)-program
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_factor
+                |                   |                           |---a-((null)-246-4-0-0)-program
+                |                   |---non_labeled_stmt
+                |                       |---id_assign_stmt
+                |                           |---b-((null)-250-4-0-0)-program
+                |                           |---end_expression
+                |                               |---expr
+                |                                   |---end_expr
+                |                                   |   |---end_term
+                |                                   |       |---id_factor
+                |                                   |           |---a-((null)-246-4-0-0)-program
+                |                                   |---+-((null)-0-0-0-0)-plus_expr_op
+                |                                   |---end_term
+                |                                       |---const_factor
+                |                                           |---1-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst15-(main_stringconst15-135-22-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---repeat_stmt
+                |       |---stmt_list
+                |       |   |---non_labeled_stmt
+                |       |   |   |---read_lp_factor_rp_proc_stmt
+                |       |   |       |---readln-((null)-0-0-0-0)-program
+                |       |   |       |---id_factor
+                |       |   |           |---a-((null)-246-4-0-0)-program
+                |       |   |---non_labeled_stmt
+                |       |   |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |   |       |---write-((null)-0-0-0-0)-program
+                |       |   |       |---args_list
+                |       |   |           |---end_expression
+                |       |   |               |---end_expr
+                |       |   |                   |---end_term
+                |       |   |                       |---id_factor
+                |       |   |                           |---stringconst16-(main_stringconst16-120-15-0-0)-string_const_value
+                |       |   |---non_labeled_stmt
+                |       |   |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |   |       |---writeln-((null)-0-0-0-0)-program
+                |       |   |       |---args_list
+                |       |   |           |---end_expression
+                |       |   |               |---end_expr
+                |       |   |                   |---end_term
+                |       |   |                       |---id_factor
+                |       |   |                           |---a-((null)-246-4-0-0)-program
+                |       |   |---non_labeled_stmt
+                |       |   |   |---read_lp_factor_rp_proc_stmt
+                |       |   |       |---readln-((null)-0-0-0-0)-program
+                |       |   |       |---id_factor
+                |       |   |           |---b-((null)-250-4-0-0)-program
+                |       |   |---non_labeled_stmt
+                |       |   |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |   |       |---write-((null)-0-0-0-0)-program
+                |       |   |       |---args_list
+                |       |   |           |---end_expression
+                |       |   |               |---end_expr
+                |       |   |                   |---end_term
+                |       |   |                       |---id_factor
+                |       |   |                           |---stringconst17-(main_stringconst17-105-15-0-0)-string_const_value
+                |       |   |---non_labeled_stmt
+                |       |       |---sys_proc_lp_args_rp_proc_stmt
+                |       |           |---writeln-((null)-0-0-0-0)-program
+                |       |           |---args_list
+                |       |               |---end_expression
+                |       |                   |---end_expr
+                |       |                       |---end_term
+                |       |                           |---id_factor
+                |       |                               |---b-((null)-250-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---term
+                |                   |---term
+                |                   |   |---end_term
+                |                   |   |   |---lp_exp_rp_factor
+                |                   |   |       |---expression
+                |                   |   |           |---end_expression
+                |                   |   |           |   |---end_expr
+                |                   |   |           |       |---end_term
+                |                   |   |           |           |---id_factor
+                |                   |   |           |               |---a-((null)-246-4-0-0)-program
+                |                   |   |           |--->-((null)-0-0-0-0)-gt_expression_op
+                |                   |   |           |---end_expr
+                |                   |   |               |---end_term
+                |                   |   |                   |---const_factor
+                |                   |   |                       |---0-((null)-0-0-0-0)-integer_const_value
+                |                   |   |---and-((null)-0-0-0-0)-and_term_op
+                |                   |   |---lp_exp_rp_factor
+                |                   |       |---expression
+                |                   |           |---end_expression
+                |                   |           |   |---end_expr
+                |                   |           |       |---end_term
+                |                   |           |           |---id_factor
+                |                   |           |               |---b-((null)-250-4-0-0)-
+                |                   |           |--->-((null)-0-0-0-0)-gt_expression_op
+                |                   |           |---end_expr
+                |                   |               |---end_term
+                |                   |                   |---const_factor
+                |                   |                       |---0-((null)-0-0-0-0)-integer_const_value
+                |                   |---and-((null)-0-0-0-0)-and_term_op
+                |                   |---lp_exp_rp_factor
+                |                       |---expression
+                |                           |---end_expression
+                |                           |   |---end_expr
+                |                           |       |---end_term
+                |                           |           |---id_factor
+                |                           |               |---a-((null)-246-4-0-0)-
+                |                           |---<-((null)-0-0-0-0)-lt_expression_op
+                |                           |---end_expr
+                |                               |---end_term
+                |                                   |---id_factor
+                |                                       |---b-((null)-250-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-integer_const_value
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst18-(main_stringconst18-75-30-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---for_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---id_factor
+                |       |               |---a-((null)-246-4-0-0)-program
+                |       |---to-((null)-0-0-0-0)-to_direction
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---id_factor
+                |       |               |---b-((null)-250-4-0-0)-program
+                |       |---non_labeled_stmt
+                |           |---if_stmt
+                |               |---end_expression
+                |               |   |---end_expr
+                |               |       |---end_term
+                |               |           |---id_lp_args_rp_factor
+                |               |               |---perfect-((null)-0-0-0-0)-program
+                |               |               |---args_list
+                |               |                   |---end_expression
+                |               |                       |---end_expr
+                |               |                           |---end_term
+                |               |                               |---id_factor
+                |               |                                   |---i-((null)-242-4-0-0)-program
+                |               |---non_labeled_stmt
+                |               |   |---sys_proc_lp_args_rp_proc_stmt
+                |               |       |---writeln-((null)-0-0-0-0)-program
+                |               |       |---args_list
+                |               |           |---end_expression
+                |               |               |---end_expr
+                |               |                   |---end_term
+                |               |                       |---id_factor
+                |               |                           |---i-((null)-242-4-0-0)-program
+                |               |---empty_else_clause
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---a-((null)-246-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---2-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---b-((null)-250-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---3-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---case_stmt
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---id_factor
+                |       |               |---a-((null)-246-4-0-0)-end_term
+                |       |---case_expr_list
+                |           |---const_case_expr
+                |           |   |---2-((null)-0-0-0-0)-integer_const_value
+                |           |   |---non_labeled_stmt
+                |           |       |---id_assign_stmt
+                |           |           |---i-((null)-242-4-0-0)-program
+                |           |           |---end_expression
+                |           |               |---end_expr
+                |           |                   |---end_term
+                |           |                       |---const_factor
+                |           |                           |---3-((null)-0-0-0-0)-integer_const_value
+                |           |---const_case_expr
+                |           |   |---5-((null)-0-0-0-0)-integer_const_value
+                |           |   |---non_labeled_stmt
+                |           |       |---id_assign_stmt
+                |           |           |---i-((null)-242-4-0-0)-program
+                |           |           |---end_expression
+                |           |               |---end_expr
+                |           |                   |---end_term
+                |           |                       |---const_factor
+                |           |                           |---4-((null)-0-0-0-0)-integer_const_value
+                |           |---const_case_expr
+                |               |---6-((null)-0-0-0-0)-integer_const_value
+                |               |---non_labeled_stmt
+                |                   |---case_stmt
+                |                       |---end_expression
+                |                       |   |---end_expr
+                |                       |       |---end_term
+                |                       |           |---id_factor
+                |                       |               |---b-((null)-250-4-0-0)-end_expression
+                |                       |---case_expr_list
+                |                           |---const_case_expr
+                |                           |   |---3-((null)-0-0-0-0)-integer_const_value
+                |                           |   |---non_labeled_stmt
+                |                           |       |---id_assign_stmt
+                |                           |           |---i-((null)-242-4-0-0)-program
+                |                           |           |---end_expression
+                |                           |               |---end_expr
+                |                           |                   |---end_term
+                |                           |                       |---const_factor
+                |                           |                           |---6-((null)-0-0-0-0)-integer_const_value
+                |                           |---const_case_expr
+                |                               |---4-((null)-0-0-0-0)-integer_const_value
+                |                               |---non_labeled_stmt
+                |                                   |---id_assign_stmt
+                |                                       |---i-((null)-242-4-0-0)-program
+                |                                       |---end_expression
+                |                                           |---end_expr
+                |                                               |---end_term
+                |                                                   |---const_factor
+                |                                                       |---7-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-end_expr
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst19-(main_stringconst19-69-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-end_term
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---i-((null)-242-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---a-((null)-246-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---0-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---b-((null)-250-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---10-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---while_stmt
+                |       |---expression
+                |       |   |---end_expression
+                |       |   |   |---end_expr
+                |       |   |       |---end_term
+                |       |   |           |---id_factor
+                |       |   |               |---a-((null)-246-4-0-0)-integer_const_value
+                |       |   |---<=-((null)-0-0-0-0)-le_expression_op
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---10-((null)-0-0-0-0)-integer_const_value
+                |       |---non_labeled_stmt
+                |           |---compound_stmt
+                |               |---stmt_list
+                |                   |---non_labeled_stmt
+                |                   |   |---id_assign_stmt
+                |                   |       |---b-((null)-250-4-0-0)-integer_const_value
+                |                   |       |---end_expression
+                |                   |           |---expr
+                |                   |               |---end_expr
+                |                   |               |   |---end_term
+                |                   |               |       |---id_factor
+                |                   |               |           |---b-((null)-250-4-0-0)-end_term
+                |                   |               |---+-((null)-0-0-0-0)-plus_expr_op
+                |                   |               |---end_term
+                |                   |                   |---const_factor
+                |                   |                       |---1-((null)-0-0-0-0)-integer_const_value
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---write-((null)-0-0-0-0)-program
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_factor
+                |                   |                           |---stringconst20-(main_stringconst20-64-5-0-0)-string_const_value
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---writeln-((null)-0-0-0-0)-
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_factor
+                |                   |                           |---b-((null)-250-4-0-0)-program
+                |                   |---non_labeled_stmt
+                |                       |---id_assign_stmt
+                |                           |---a-((null)-246-4-0-0)-program
+                |                           |---end_expression
+                |                               |---expr
+                |                                   |---end_expr
+                |                                   |   |---end_term
+                |                                   |       |---id_factor
+                |                                   |           |---a-((null)-246-4-0-0)-program
+                |                                   |---+-((null)-0-0-0-0)-plus_expr_op
+                |                                   |---end_term
+                |                                       |---const_factor
+                |                                           |---1-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-end_term
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst21-(main_stringconst21-59-5-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---b-((null)-250-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---for_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---1-((null)-0-0-0-0)-integer_const_value
+                |       |---to-((null)-0-0-0-0)-to_direction
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---50-((null)-0-0-0-0)-integer_const_value
+                |       |---non_labeled_stmt
+                |           |---id_lb_exp_rb_assign_stmt
+                |               |---aa-((null)-274-196-0-0)-program
+                |               |---end_expression
+                |               |   |---end_expr
+                |               |       |---end_term
+                |               |           |---id_factor
+                |               |               |---i-((null)-242-4-0-0)-program
+                |               |---end_expression
+                |                   |---end_expr
+                |                       |---end_term
+                |                           |---minus_factor_factor
+                |                               |---id_factor
+                |                                   |---i-((null)-242-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_lb_exp_rb_factor
+                |                           |---aa-((null)-274-196-0-0)-program
+                |                           |---end_expression
+                |                               |---end_expr
+                |                                   |---end_term
+                |                                       |---const_factor
+                |                                           |---40-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---for_stmt
+                |       |---i-((null)-242-4-0-0)-integer_const_value
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---const_factor
+                |       |               |---50-((null)-0-0-0-0)-integer_const_value
+                |       |---downto-((null)-0-0-0-0)-down_direction
+                |       |---end_expression
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---id_lb_exp_rb_factor
+                |       |               |---aa-((null)-274-196-0-0)-program
+                |       |               |---end_expression
+                |       |                   |---end_expr
+                |       |                       |---end_term
+                |       |                           |---const_factor
+                |       |                               |---40-((null)-0-0-0-0)-integer_const_value
+                |       |---non_labeled_stmt
+                |           |---compound_stmt
+                |               |---stmt_list
+                |                   |---non_labeled_stmt
+                |                   |   |---sys_proc_lp_args_rp_proc_stmt
+                |                   |       |---write-((null)-0-0-0-0)-
+                |                   |       |---args_list
+                |                   |           |---end_expression
+                |                   |               |---end_expr
+                |                   |                   |---end_term
+                |                   |                       |---id_lb_exp_rb_factor
+                |                   |                           |---aa-((null)-274-196-0-0)-program
+                |                   |                           |---end_expression
+                |                   |                               |---end_expr
+                |                   |                                   |---end_term
+                |                   |                                       |---id_factor
+                |                   |                                           |---i-((null)-242-4-0-0)-program
+                |                   |---non_labeled_stmt
+                |                       |---sys_proc_lp_args_rp_proc_stmt
+                |                           |---write-((null)-0-0-0-0)-end_term
+                |                           |---args_list
+                |                               |---end_expression
+                |                                   |---end_expr
+                |                                       |---end_term
+                |                                           |---id_factor
+                |                                               |---stringconst22-(main_stringconst22-56-3-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---id_dot_id_assign_stmt
+                |       |---dt-((null)-470-12-0-0)-program
+                |       |---year-((null)-470-4-0-0)-end_expression
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---2007-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_dot_id_assign_stmt
+                |       |---dt-((null)-470-12-0-0)-program
+                |       |---month-((null)-474-4-0-0)-end_expr
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---11-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst23-(main_stringconst23-46-10-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-end_expr
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_dot_id_factor
+                |                           |---dt-((null)-470-12-0-0)-program
+                |                           |---year-((null)-470-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst24-(main_stringconst24-35-11-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_dot_id_factor
+                |                           |---dt-((null)-470-12-0-0)-program
+                |                           |---month-((null)-474-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---weekday-((null)-498-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---id_factor
+                |                       |---0-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---if_stmt
+                |       |---expression
+                |       |   |---end_expression
+                |       |   |   |---end_expr
+                |       |   |       |---end_term
+                |       |   |           |---id_factor
+                |       |   |               |---weekday-((null)-498-4-0-0)-program
+                |       |   |---=-((null)-0-0-0-0)-equal_expression_op
+                |       |   |---end_expr
+                |       |       |---end_term
+                |       |           |---id_factor
+                |       |               |---0-((null)-0-0-0-0)-integer_const_value
+                |       |---non_labeled_stmt
+                |       |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |       |---writeln-((null)-0-0-0-0)-program
+                |       |       |---args_list
+                |       |           |---end_expression
+                |       |               |---end_expr
+                |       |                   |---end_term
+                |       |                       |---id_factor
+                |       |                           |---stringconst25-(main_stringconst25-30-5-0-0)-string_const_value
+                |       |---else_clause
+                |           |---non_labeled_stmt
+                |               |---sys_proc_lp_args_rp_proc_stmt
+                |                   |---writeln-((null)-0-0-0-0)-program
+                |                   |---args_list
+                |                       |---end_expression
+                |                           |---end_expr
+                |                               |---end_term
+                |                                   |---id_factor
+                |                                       |---stringconst26-(main_stringconst26-21-9-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---aage-((null)-502-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---23-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---aage-((null)-502-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---500-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-end_term
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst27-(main_stringconst27-15-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-integer_const_value
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---aage-((null)-502-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---i-((null)-242-4-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---minus_factor_factor
+                |                       |---const_factor
+                |                           |---3-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst28-(main_stringconst28-9-6-0-0)-string_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---writeln-((null)-0-0-0-0)-end_expr
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---i-((null)-242-4-0-0)-program
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---achar-((null)-506-1-0-0)-program
+                |       |---end_expression
+                |           |---end_expr
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---'a'-((null)-0-0-0-0)-char_const_value
+                |---non_labeled_stmt
+                |   |---id_assign_stmt
+                |       |---achar-((null)-506-1-0-0)-program
+                |       |---end_expression
+                |           |---expr
+                |               |---end_expr
+                |               |   |---end_term
+                |               |       |---id_factor
+                |               |           |---achar-((null)-506-1-0-0)-program
+                |               |---+-((null)-0-0-0-0)-plus_expr_op
+                |               |---end_term
+                |                   |---const_factor
+                |                       |---1-((null)-0-0-0-0)-integer_const_value
+                |---non_labeled_stmt
+                |   |---sys_proc_lp_args_rp_proc_stmt
+                |       |---write-((null)-0-0-0-0)-program
+                |       |---args_list
+                |           |---end_expression
+                |               |---end_expr
+                |                   |---end_term
+                |                       |---id_factor
+                |                           |---stringconst29-(main_stringconst29-0-9-0-0)-string_const_value
+                |---non_labeled_stmt
+                    |---sys_proc_lp_args_rp_proc_stmt
+                        |---write-((null)-0-0-0-0)-
+                        |---args_list
+                            |---end_expression
+                                |---end_expr
+                                    |---end_term
+                                        |---id_factor
+                                            |---achar-((null)-506-1-0-0)-program
+WuPandeMacBook-Pro:compile_sys_design Wupan$ 
+
+
+
+
+
+WuPandeMacBook-Pro:compile_sys_design Wupan$ 
+
+
+类型不匹配要不要getAddress???????????????????????填全空？？？
+
+case  只处理了integer的情况
+
+
+函数名ID
+
+
+枚举
